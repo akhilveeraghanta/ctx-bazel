@@ -1,2 +1,7 @@
-# gethelp
-A vim plugin written in python
+# ctxbazel
+
+A plugin for bazel for vim that uses context to make intelligent suggestions.
+The bazel plugins out there currently aren't great. The goal is to make a feature packed bazel plugin for vim that makes it better than using the bazel plugins for IDE's.
+
+
+Coming soon :TM:
